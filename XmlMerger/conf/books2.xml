@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+	<book category="Fiction">
+    <title lang="en">Emma</title>
+    <author>Jane Austen</author>
+    <year>1815</year>
+    <price>29.99$</price>
+  </book>
+  
+ 	<book category="Children">
+    <title lang="en">Alice In Wonderland</title>
+   	<year>2002</year>
+    <price>50.00$</price>
+  </book>
+  
+ </bookstore>
